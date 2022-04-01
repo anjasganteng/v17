@@ -1818,7 +1818,7 @@ break
 
                buttonsMessage = {
                contentText: `${allmenu}`,
-               footerText: '© ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ', imageMessage: imageMsg,
+               footerText: '© ʙʏ AnjasGanteng', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -1861,8 +1861,8 @@ freply(`━━━━━ *INFO BOT* ━━━━━
 ❏ BASE ORI : Ramdani Official
 ❏ TYPE SC : nodejs
 ❏ DI BUAT PADA : sel, 29, mart, 2022
-❏ GITHUB CREATOR : https://github.com/Ramdaniofficial
-❏ YT CREATOR : https://youtube.com/channel/UCB157jomCne961WzYHpG4gg
+❏ GITHUB CREATOR : https://github.com/anjasganteng/v17
+❏ YT CREATOR : https://youtube.com/
 *━━━━━━━━━━━━━━━━━━━━*`)
 randommusic = fs.readFileSync(`./media/audio/${randomaudio}.mp3`)
 Ramdani.sendMessage(from, randommusic, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
@@ -1871,8 +1871,8 @@ case 'script2': case 'sc2':
 if (!isRegist) return freply(mess.regist)
 if (isBanned) return freply(mess.banned)
 freply(`━━━━━ *SCRIPT* ━━━━━
-❏ LINK VIA GITHUB : https://github.com/Ramdaniofficial/v17
-❏ BASE ORI : Ramdani Official
+❏ LINK VIA GITHUB : https://github.com/anjasganteng/v17
+❏ BASE ORI : Anjas Official
 ❏ TYPE SC : nodejs
 ❏ DI BUAT PADA : sel, 29, mart, 2022
 *━━━━━━━━━━━━━━━━━━━━*`)
@@ -1892,7 +1892,7 @@ break
 
                buttonsMessage = {
                contentText: `${qris}`,
-               footerText: '© ʙʏ ʀᴀᴍᴅᴀɴɪ ᴏғғɪᴄɪᴀʟ', imageMessage: imageMsg,
+               footerText: '© ʙʏ AnjasGanteng', imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -1999,7 +1999,7 @@ case 'tqtq':
 if (!isRegist) return freply(mess.regist)
 if (isBanned) return freply(mess.banned)
 freply(`• *BIG THANKS TO*
-• RAMDANI OFFICIAL (ME)
+• AnjasGanteng(ME)
 • ARUL (MY GURU)
 • MHANKBARBAR (MASTAH)
 • APRILIA
